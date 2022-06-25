@@ -4,9 +4,7 @@ Sono uno studente magistrale presso l'Università degli Studi di Udine.
 
 Quì potete trovare tutti i progetti a cui lavorando e sui quali ho lavorato.
 
-Mi trovate su:
-
-<p align="">
+Mi trovate su: <p align="">
   <a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="icon brands fa-linkedin"> <span class="label">LinkedIn</span> 
     </a>
 </p>
