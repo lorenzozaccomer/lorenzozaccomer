@@ -5,7 +5,7 @@ Sono uno studente magistrale di Ingegneria Elettronica presso l'Università degl
 Quì potete trovare tutti i progetti a cui lavorando e sui quali ho lavorato.
 
 Mi trovate su: 
-  <a href="https://www.linkedin.com/in/lorenzo-zaccomer"> <i class="fab fa-linkedin"></i> <span class="label">LinkedIn</span> </a>
+  <a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="fab fa-linkedin"> <span class="label">LinkedIn</span> </a>
 
 <!--
 **lorenzozaccomer/lorenzozaccomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
