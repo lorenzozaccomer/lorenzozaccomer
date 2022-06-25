@@ -7,7 +7,7 @@ Quì potete trovare tutti i progetti a cui lavorando e sui quali ho lavorato.
 Mi trovate su:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lorenzo-zaccomer"> class="icon brands fa-linkedin"> LinkedIn<span class="label">LinkedIn</span> 
+  <a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="icon brands fa-linkedin"> LinkedIn<span class="label">LinkedIn</span> 
     </a>
 </p>
 
