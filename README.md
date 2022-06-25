@@ -2,7 +2,7 @@
 
 Sono uno studente magistrale di Ingegneria Elettronica presso l'Università degli Studi di Udine.
 
-Quì potete trovare tutti i progetti a cui lavorando e sui quali ho lavorato.
+Quì potete trovare tutti i progetti a cui lavoro e sui quali ho lavorato.
 
 Mi trovate su: 
   <a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="fa fa-linkedin"> <span class="label">LinkedIn</span> </a>
