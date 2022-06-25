@@ -4,10 +4,9 @@ Sono uno studente magistrale presso l'Università degli Studi di Udine.
 
 Quì potete trovare tutti i progetti a cui lavorando e sui quali ho lavorato.
 
-Mi trovate su: <p align="">
+Mi trovate su: 
   <a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="icon brands fa-linkedin"> <span class="label">LinkedIn</span> 
     </a>
-</p>
 
 <!--
 **lorenzozaccomer/lorenzozaccomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +21,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<p align="">
+  <a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="icon brands fa-linkedin"> <span class="label">LinkedIn</span> 
+    </a>
+</p>
+
 -->
