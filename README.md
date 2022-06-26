@@ -6,9 +6,7 @@ Quì potete trovare tutti i progetti a cui lavoro e sui quali ho lavorato.
 
 Mi trovate su: 
 
-<a href="https://www.linkedin.com/in/lorenzo-zaccomer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="fa fa-linkedin"> <span class="label">LinkedIn</span> </a>
 
 <!--
 **lorenzozaccomer/lorenzozaccomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
