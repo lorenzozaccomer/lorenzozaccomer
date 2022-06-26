@@ -5,7 +5,10 @@ Sono uno studente magistrale di Ingegneria Elettronica presso l'Università degl
 Quì potete trovare tutti i progetti a cui lavoro e sui quali ho lavorato.
 
 Mi trovate su: 
-  <a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="fa fa-linkedin"> <span class="label">LinkedIn</span> </a>
+
+<a href="https://www.linkedin.com/in/lorenzo-zaccomer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
 <!--
 **lorenzozaccomer/lorenzozaccomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-<p align="">
-  <a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="icon brands fa-linkedin"> <span class="label">LinkedIn</span> 
-    </a>
-</p>
+<a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="fa fa-linkedin"> <span class="label">LinkedIn</span> </a>
 
 -->
