@@ -1,10 +1,10 @@
 ### Mandi 👋
 
-Sono uno studente magistrale di Ingegneria Elettronica presso l'Università degli Studi di Udine.
+I'm a Master student in Electronic Engineering at the University of Udine.
 
-Quì potete trovare tutti i progetti a cui lavoro e sui quali ho lavorato.
+Here you can find all my projects I worked on.
 
-Mi trovate su: <a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="fa fa-linkedin"> <span class="label">LinkedIn</span> </a>
+My social networks: <a href="https://www.linkedin.com/in/lorenzo-zaccomer" class="fa fa-linkedin"> <span class="label">LinkedIn</span> </a>
 
 <!--
 **lorenzozaccomer/lorenzozaccomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
