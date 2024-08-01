@@ -1,6 +1,6 @@
 ### Mandi 👋
 
-I graduted in Electronic Engineering from the University of Udine.
+I graduated in Electronic Engineering from the University of Udine.
 
 Here you can find all my projects I worked on.
 
