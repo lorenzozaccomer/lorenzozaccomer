@@ -1,6 +1,6 @@
 ### Mandi 👋
 
-I'm a Master student in Electronic Engineering at the University of Udine.
+I graduted in Electronic Engineering from the University of Udine.
 
 Here you can find all my projects I worked on.
 
